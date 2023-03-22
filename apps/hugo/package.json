@@ -1,0 +1,9 @@
+{
+  "name": "hugo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "hugo server -D --port 3000",
+    "build": "hugo"
+  },
+  "license": "ISC"
+}
